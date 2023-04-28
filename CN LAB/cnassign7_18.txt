@@ -1,0 +1,18 @@
+ANKUR YADAV 2K20/SE/18
+
+Enter no. of vertices:4
+
+Enter the adjacency matrix:
+0 2 3 5
+2 0 6 6
+4 6 0 1
+5 6 1 0
+
+Enter the starting node:1
+
+Distance of node0=2
+Path=0<-1
+Distance of node2=5
+Path=2<-0<-1
+Distance of node3=6
+

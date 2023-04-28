@@ -1,0 +1,18 @@
+Ankur Yadav
+2K20/SE/18
+
+Enter data to be transmitted: 101101
+Enter the Generating polynomial: 101
+----------------------------------------
+ Data padded with n-1 zeros : 10110100
+----------------------------------------
+CRC or Check value is : 00
+----------------------------------------
+Final data to be sent : 10110100
+----------------------------------------
+Enter the received data: 10110100
+----------------------------------------
+Data received: 10110100
+----------------------------------------
+No error detected
+

@@ -1,0 +1,33 @@
+arinaymay@Ubuntu:~/Desktop/Lab/lab5$ gcc client.c -o client
+arinaymay@Ubuntu:~/Desktop/Lab/lab5$ ./client
+
+ Waiting for Connection------
+Connected to client: 10.0.2.15
+
+ How many frames to send?
+4
+Ready to send
+Sent Frame 0
+Received Ack 1
+Sent Frame 1
+Received Ack 0
+Sent Frame 0
+Received Ack 1
+Sent Frame 1
+Received Ack 0
+Transfer successful
+
+
+
+arinaymay@Ubuntu:~/Desktop/Lab/lab5$ gcc server.c -o server
+arinaymay@Ubuntu:~/Desktop/Lab/lab5$ ./server
+Waiting to receive
+Received frame 0
+Ack 1 sent
+Received frame 1
+Ack 0 sent
+Received frame 0
+Ack 1 sent
+Received frame 1
+Ack 0 sent
+Receiver exit

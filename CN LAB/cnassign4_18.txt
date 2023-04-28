@@ -1,0 +1,10 @@
+// Sender Output
+aradhya@Ubantu:~$ ./send
+Write data: AnkurYadav
+Data send is: AnkurYadav
+
+// Receiver Output
+aradhya@Ubantu:~$ ./receive
+Data Received is: AnkurYadav
+Character count: 10
+Message after stuffing is $AnkurYadav$ 
